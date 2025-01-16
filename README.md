@@ -12,8 +12,8 @@
 
 - 🌱 I’m currently deepening my knowledge in **Django** and advanced backend development.  
 - 💼 I have hands-on experience with **Docker**, **Redis**, **MySQL**, and **PostgreSQL**.  
-- 📫 Reach me via email: **akbar.abrorov@example.com**  
-- ⚡ Fun fact: **Tech and coffee ☕ fuel my creativity!**  
+- 📫 Reach me via email: **abrorovakbar65@gmail.com**  
+- ⚡ Fun fact: Framework Explorer 🚀 
 <br>
 
 <h3 align="left">Connect with me:</h3>
