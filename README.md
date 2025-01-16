@@ -32,8 +32,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://files.svgcdn.io/logos/fastapi.png" alt="django" width="40" height="40" />
+  </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1va4bwpsW9QRYB07ogAGZY1iOpf0JXn10oA&s" alt="django" width="40" height="40" />
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
@@ -67,7 +70,4 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akbar-abrorov&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="akbar-abrorov" />
 </p>
-<br>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akbar-abrorov&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="akbar-abrorov" />
-</p>
+
