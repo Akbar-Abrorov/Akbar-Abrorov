@@ -10,8 +10,8 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="akbar-abrorov" /></p>
 
-- 🌱 I’m currently deepening my knowledge in **Django** and advanced backend development.  
-- 💼 I have hands-on experience with **Docker**, **Redis**, **MySQL**, and **PostgreSQL**.  
+- 🌱 I’m currently deepening my knowledge in **FastAPI** and advanced backend development.  
+- 💼 I have hands-on experience with **Docker**, **Redis**, **MySQL**,**PostgreSQL**,**RabbitMQ**,**JWT auth**,**MinIO**.  
 - 📫 Reach me via email: **abrorovakbar65@gmail.com**  
 - ⚡ Fun fact: Framework Explorer 🚀 
 <br>
