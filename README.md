@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akbar Abrorov</h1>
-<h3 align="center">A passionate Full Stack Developer and Tech Enthusiast 🚀</h3>
+<h3 align="center">A passionate Junior Full Stack Developer and Tech Enthusiast 🚀</h3>
 <br>
 
 <p align="right">
